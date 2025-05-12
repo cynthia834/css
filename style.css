@@ -1,0 +1,36 @@
+/* Selector 1: Class selector */
+.main-header {
+  background-color: #4a90e2;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-bottom: 4px solid #2c3e50;
+}
+
+/* Selector 2: ID selector */
+#about {
+  margin: 30px;
+  padding: 20px;
+  border: 2px dashed #ccc;
+  font-family: 'Georgia', serif;
+}
+
+/* Selector 3: Element selector */
+footer {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.9em;
+  font-style: italic;
+  border-top: 2px solid #999;
+}
+
+/* Styling an image */
+.styled-img {
+  display: block;
+  margin: 20px auto;
+  border: 3px solid #4a90e2;
+  padding: 5px;
+  border-radius: 8px;
+}
